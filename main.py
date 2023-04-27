@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-
+import csv
 # Make a request to the news website
 news_url = 'https://www.flipkart.com/gaming/gaming-laptops/pr?sid=4rr,tz1&otracker=categorytree&fm=neo%2Fmerchandising&iid=M_706278fc-30c9-4d92-bd27-27164b0c5aff_1_372UD5BXDFYS_MC.0OOCG5J6F9WH&otracker=hp_rich_navigation_3_1.navigationCard.RICH_NAVIGATION_Electronics~Laptop%2Band%2BDesktop~Gaming%2BLaptops_0OOCG5J6F9WH&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_3_L2_view-all&cid=0OOCG5J6F9WH'
 response = requests.get(news_url)
@@ -42,6 +42,12 @@ for i in range(length):
     })
 # Store the data in a dictionary or in a database
 # ...
+with open('product.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+
+    # Write the data to the CSV file
+    for row in Pdetails:
+        writer.writerow(row['name'])
 # Render the data on a web page using Flask
 from flask import Flask, render_template
 

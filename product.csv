@@ -1,0 +1,40 @@
+H,P, ,V,i,c,t,u,s, ,I,n,t,e,l, ,C,o,r,e, ,i,5, ,1,1,t,h, ,G,e,n, ,-, ,(,8, ,G,B,/,5,1,2, ,G,B, ,S,S,D,/,W,i,n,.,.,.
+D,E,L,L, ,G,7, ,C,o,r,e, ,i,9, ,1,0,t,h, ,G,e,n, ,-, ,(,1,6, ,G,B,/,1, ,T,B, ,S,S,D,/,W,i,n,d,o,w,s, ,1,0, ,H,.,.,.
+A,S,U,S, ,T,U,F, ,G,a,m,i,n,g, ,A,1,5, ,R,y,z,e,n, ,5, ,H,e,x,a, ,C,o,r,e, ,A,M,D, ,R,5,-,4,6,0,0,H, ,-, ,(,8,.,.,.
+A,S,U,S, ,T,U,F, ,G,a,m,i,n,g, ,F,1,5, ,C,o,r,e, ,i,5, ,1,0,t,h, ,G,e,n, ,-, ,(,8, ,G,B,/,5,1,2, ,G,B, ,S,S,D,.,.,.
+a,c,e,r, ,A,s,p,i,r,e, ,7, ,C,o,r,e, ,i,5, ,1,2,t,h, ,G,e,n, ,-, ,(,1,6, ,G,B,/,5,1,2, ,G,B, ,S,S,D,/,W,i,n,d,.,.,.
+A,S,U,S, ,T,U,F, ,G,a,m,i,n,g, ,A,1,5, ,w,i,t,h, ,9,0,W,h,r, ,B,a,t,t,e,r,y, ,R,y,z,e,n, ,7, ,O,c,t,a, ,C,o,r,.,.,.
+a,c,e,r, ,A,s,p,i,r,e, ,7, ,C,o,r,e, ,i,5, ,1,2,t,h, ,G,e,n, ,-, ,(,8, ,G,B,/,5,1,2, ,G,B, ,S,S,D,/,W,i,n,d,o,.,.,.
+H,P, ,V,i,c,t,u,s, ,R,y,z,e,n, ,5, ,H,e,x,a, ,C,o,r,e, ,5,6,0,0,H, ,-, ,(,8, ,G,B,/,5,1,2, ,G,B, ,S,S,D,/,W,i,.,.,.
+H,P, ,V,i,c,t,u,s, ,R,y,z,e,n, ,7, ,O,c,t,a, ,C,o,r,e, ,5,8,0,0,H, ,-, ,(,8, ,G,B,/,5,1,2, ,G,B, ,S,S,D,/,W,i,.,.,.
+M,S,I, ,A,l,p,h,a, ,1,5, ,A,M,D, ,A,d,v,a,n,t,a,g,e, ,E,d,i,t,i,o,n, ,R,y,z,e,n, ,7, ,O,c,t,a, ,C,o,r,e, ,5,8,.,.,.
+D,E,L,L, ,A,l,i,e,n,w,a,r,e, ,C,o,r,e, ,i,7, ,1,2,t,h, ,G,e,n, ,-, ,(,1,6, ,G,B,/,5,1,2, ,G,B, ,S,S,D,/,W,i,n,.,.,.
+H,P, ,O,M,E,N, ,R,y,z,e,n, ,7, ,O,c,t,a, ,C,o,r,e, ,A,M,D, ,R,7,-,6,8,0,0,H, ,-, ,(,1,6, ,G,B,/,5,1,2, ,G,B, ,.,.,.
+D,E,L,L, ,R,y,z,e,n, ,5, ,H,e,x,a, ,C,o,r,e, ,A,M,D, ,R,5,-,6,6,0,0,H, ,-, ,(,1,6, ,G,B,/,5,1,2, ,G,B, ,S,S,D,.,.,.
+H,P, ,V,i,c,t,u,s, ,R,y,z,e,n, ,7, ,O,c,t,a, ,C,o,r,e, ,5,8,0,0,H, ,-, ,(,8, ,G,B,/,5,1,2, ,G,B, ,S,S,D,/,W,i,.,.,.
+H,P, ,V,i,c,t,u,s, ,I,n,t,e,l, ,C,o,r,e, ,i,5, ,1,2,t,h, ,G,e,n, ,-, ,(,8, ,G,B,/,5,1,2, ,G,B, ,S,S,D,/,W,i,n,.,.,.
+A,S,U,S, ,T,U,F, ,G,a,m,i,n,g, ,F,1,5, ,(,2,0,2,2,), ,C,o,r,e, ,i,7, ,1,2,t,h, ,G,e,n, ,-, ,(,1,6, ,G,B,/,5,1,.,.,.
+H,P, ,V,i,c,t,u,s, ,R,y,z,e,n, ,7, ,O,c,t,a, ,C,o,r,e, ,5,8,0,0,H, ,-, ,(,8, ,G,B,/,5,1,2, ,G,B, ,S,S,D,/,W,i,.,.,.
+M,S,I, ,G,P,6,6, ,L,e,o,p,a,r,d, ,C,o,r,e, ,i,7, ,1,1,t,h, ,G,e,n, ,-, ,(,1,6, ,G,B,/,1, ,T,B, ,S,S,D,/,W,i,n,.,.,.
+M,S,I, ,S,w,o,r,d, ,1,5, ,C,o,r,e, ,i,5, ,1,2,t,h, ,G,e,n, ,-, ,(,1,6, ,G,B,/,5,1,2, ,G,B, ,S,S,D,/,W,i,n,d,o,.,.,.
+D,E,L,L, ,C,o,r,e, ,i,9, ,1,2,t,h, ,G,e,n, ,-, ,(,1,6, ,G,B,/,1, ,T,B, ,S,S,D,/,W,i,n,d,o,w,s, ,1,1, ,H,o,m,e,.,.,.
+L,e,n,o,v,o, ,I,n,t,e,l, ,C,o,r,e, ,i,7, ,1,2,t,h, ,G,e,n, ,-, ,(,1,6, ,G,B,/,5,1,2, ,G,B, ,S,S,D,/,W,i,n,d,o,.,.,.
+A,S,U,S, ,T,U,F, ,G,a,m,i,n,g, ,A,1,5, ,(,2,0,2,2,), ,R,y,z,e,n, ,7, ,O,c,t,a, ,C,o,r,e, ,6,8,0,0,H,S, ,-, ,(,.,.,.
+a,c,e,r, ,A,s,p,i,r,e, ,7, ,R,y,z,e,n, ,5, ,H,e,x,a, ,C,o,r,e, ,A,M,D, ,R,5,-,5,5,0,0,U, ,-, ,(,8, ,G,B,/,5,1,.,.,.
+D,E,L,L, ,G,1,5, ,C,o,r,e, ,i,5, ,1,2,t,h, ,G,e,n, ,-, ,(,1,6, ,G,B,/,5,1,2, ,G,B, ,S,S,D,/,W,i,n,d,o,w,s, ,1,.,.,.
+M,S,I, ,K,a,t,a,n,a, ,G,F,6,6, ,C,o,r,e, ,i,7, ,1,2,t,h, ,G,e,n, ,-, ,(,8, ,G,B,/,5,1,2, ,G,B, ,S,S,D,/,W,i,n,.,.,.
+L,e,n,o,v,o, ,I,d,e,a,P,a,d, ,G,a,m,i,n,g, ,3, ,R,y,z,e,n, ,5, ,H,e,x,a, ,C,o,r,e, ,5,6,0,0,H, ,-, ,(,8, ,G,B,.,.,.
+M,S,I, ,K,a,t,a,n,a, ,G,F,6,6, ,C,o,r,e, ,i,5, ,1,2,t,h, ,G,e,n, ,-, ,(,1,6, ,G,B,/,5,1,2, ,G,B, ,S,S,D,/,W,i,.,.,.
+A,S,U,S, ,T,U,F, ,G,a,m,i,n,g, ,F,1,7, ,(,2,0,2,2,), ,C,o,r,e, ,i,7, ,1,2,t,h, ,G,e,n, ,-, ,(,1,6, ,G,B,/,1, ,.,.,.
+M,S,I, ,C,o,r,e, ,i,9, ,1,2,t,h, ,G,e,n, ,-, ,(,1,6, ,G,B,/,1, ,T,B, ,S,S,D,/,W,i,n,d,o,w,s, ,1,1, ,H,o,m,e,/,.,.,.
+A,S,U,S, ,T,U,F, ,G,a,m,i,n,g, ,A,1,5, ,w,i,t,h, ,9,0,W,h,r, ,B,a,t,t,e,r,y, ,R,y,z,e,n, ,7, ,O,c,t,a, ,C,o,r,.,.,.
+L,e,n,o,v,o, ,I,d,e,a,p,a,d, ,G,a,m,i,n,g, ,3, ,R,y,z,e,n, ,5, ,H,e,x,a, ,C,o,r,e, ,A,M,D, ,R,5,-,5,6,0,0,H, ,.,.,.
+H,P, ,P,a,v,i,l,i,o,n, ,G,a,m,i,n,g, ,R,y,z,e,n, ,5, ,Q,u,a,d, ,C,o,r,e, ,3,5,5,0,H, ,-, ,(,8, ,G,B,/,5,1,2, ,.,.,.
+L,e,n,o,v,o, ,I,d,e,a,P,a,d, ,G,a,m,i,n,g, ,3, ,I,n,t,e,l, ,C,o,r,e, ,i,5, ,1,1,t,h, ,G,e,n, ,-, ,(,8, ,G,B,/,.,.,.
+A,S,U,S, ,R,O,G, ,Z,e,p,h,y,r,u,s, ,M,1,6, ,(,2,0,2,3,), ,C,o,r,e, ,i,9, ,1,3,t,h, ,G,e,n, ,-, ,(,3,2, ,G,B,/,.,.,.
+L,e,n,o,v,o, ,I,d,e,a,P,a,d, ,G,a,m,i,n,g, ,3, ,I,n,t,e,l, ,C,o,r,e, ,i,5, ,1,1,t,h, ,G,e,n, ,-, ,(,1,6, ,G,B,.,.,.
+L,e,n,o,v,o, ,I,d,e,a,P,a,d, ,R,y,z,e,n, ,5, ,H,e,x,a, ,C,o,r,e, ,5,6,0,0,H, ,-, ,(,8, ,G,B,/,5,1,2, ,G,B, ,S,.,.,.
+H,P, ,V,i,c,t,u,s, ,C,o,r,e, ,i,7, ,1,2,t,h, ,G,e,n, ,-, ,(,8, ,G,B,/,5,1,2, ,G,B, ,S,S,D,/,W,i,n,d,o,w,s, ,1,.,.,.
+A,S,U,S, ,R,O,G, ,S,t,r,i,x, ,G,1,5, ,R,y,z,e,n, ,7, ,O,c,t,a, ,C,o,r,e, ,A,M,D, ,R,7,-,4,8,0,0,H, ,-, ,(,8, ,.,.,.
+L,e,n,o,v,o, ,I,d,e,a,p,a,d, ,G,a,m,i,n,g, ,3, ,R,y,z,e,n, ,5, ,H,e,x,a, ,C,o,r,e, ,A,M,D, ,R,5,-,5,6,0,0,H, ,.,.,.
+H,P, ,V,i,c,t,u,s, ,R,y,z,e,n, ,7, ,O,c,t,a, ,C,o,r,e, ,5,8,0,0,H, ,-, ,(,1,6, ,G,B,/,1, ,T,B, ,S,S,D,/,W,i,n,.,.,.
